@@ -1,5 +1,5 @@
-# SZE-SLR-MILAB
-Systematic Literature Review (SLR) Design, and P-graph (Process Graph Theory) SLR Database
+# [SZESLR] Semi-automated Systematic Literature Review (SLR) Design and P-graph (Process Graph Theory) SLR Database
+(c) Széchenyi István University and Artificial Intelligence National Laboratory (MILAB)
 
 A proposed semi-automated Systematic Literature Review (SLR) design has been deployed to conduct an exhaustive literature review on contributions concerning applications of the P-graph framework as a case study. The P-graph framework (https://p-graph.org) was initially conceived for solving problems related to the synthesis of chemical processes; in particular, the framework has been useful for developing sustainable and resilient systems.
 
