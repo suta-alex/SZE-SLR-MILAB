@@ -1,0 +1,382 @@
+Label	Replace by
+ahuora - centre for smart energy systems, school of engineering, university of waikato, hamilton, new zealand	university of waikato
+applied informatics, óbuda university, bécsi út 96/b, budapest, 1034, hungary	óbuda university
+artificial intelligence national laboratory, széchenyi istván university, gyõr, 9026, hungary	széchenyi istván university
+autonomous university of bucaramanga, department of systems engineering, avenida 42 no 48-11, bucaramanga, santander, colombia	autonomous university of bucaramanga
+biological systems engineering department, washington state university, pullman, wa 99164, united states	washington state university
+biomass waste-to-wealth sig, research centre for sustainable technologies, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, sarawak, kuching, 93350, malaysia	swinburne university of technology
+biomass waste-to-wealth special interest group, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, sarawak, kuching, 93350, malaysia	swinburne university of technology
+biomass waste-to-wealth special interest group, research centre for sustainable technologies, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, kuching, sarawak 93350, malaysia	swinburne university of technology
+biomass waste-to-wealth special interest group, research centre for sustainable technologies, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, sarawak, kuching, 93350, malaysia	swinburne university of technology
+biomaterials and environmental engineering laboratory, department of engineering science, college of engineering and agro-industrial technology university of the philippines los ba?os, college, los ba?os, laguna 4031, philippines	university of the philippines
+biomaterials and environmental engineering laboratory, department of engineering science, college of engineering and agro-industrial technology university of the philippines los ba?os, college, los ba?os, laguna 4031, philippines	university of the philippines
+blue reply s.r.l., milano, italy	blue reply s.r.l.
+brno university of technology, institute of process engineering & netme centre, technicka 2896/2, brno, 616 69, czech republic	brno university of technology
+brno university of technology, institute of process engineering & netme centre, technická 2896/2, brno, 616 69, czech republic	brno university of technology
+brno university of technology, institute of process engineering, netme centre, technicka 2896/2, brno, 616 69, czech republic	brno university of technology
+budapest business school, department of methodology, budapest, hungary	budapest business school
+budapest business school, faculty of international management and business, department of mathematics, statistics and informatics, budapest, hungary	budapest business school
+budapest tech., bécsi út 96/b, h-1034 budapest, hungary	budapest university of technology and economics
+budapest tech., john von neumann faculty of informatics, institute for software engineering, budapest, hungary	budapest university of technology and economics
+budapest university of technology and economics, budapest, h-1111, hungary	budapest university of technology and economics
+budapest university of technology and economics, budapest, hungary	budapest university of technology and economics
+budapest university of technology and economics, mûegyetem rkp. 3, budapest, 1111, hungary	budapest university of technology and economics
+center for advanced process decision-making, department of chemical engineering, carnegie mellon university, pittsburgh, pa, united states	carnegie mellon university
+center for artificial intelligence technology, faculty of information science and technology, universiti kebangsaan malaysia, selangor, bangi, 43600, malaysia	National University of Malaysia
+center for engineering and sustainable development research, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+center for engineering and sustainable development research, de la salle university, manila, philippines	de la salle university
+center for environmental solutions and emergency response, u.s. environmental protection agency, 26 west martin luther king drive, cincinnati, oh 45268, united states	U.S. Environmental Protection Agency
+center for process systems engineering and sustainability, pázmány péter catholic university, hungary	pázmány péter catholic university
+center for process systems engineering and sustainability, pázmány péter catholic university, szentkirályi u. 28, budapest, h-1088, hungary	pázmány péter catholic university
+center for uncertain systems, tools for optimization and management (custom), vishwamitra research institute, westmont, il 60559, united states	vishwamitra research institute
+centre for advanced process optimization (capo), university of pannonia, hungary	university of pannonia
+centre for advanced process optimization (capo), university of pannonia, veszprém, hungary	university of pannonia
+centre for process integration and intensification - cpi2, research institute of chemical and process engineering, faculty of information technology, egyetem u. 10, h-8200 veszprém, hungary	university of pannonia
+centre for process integration and intensification-cpi2, research institute of chemical and process engineering, faculty of information technology, university of pannonia, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+centre for process integration, school of chemical engineering and analytical science, the university of manchester, manchester, m13 9pl, united kingdom	university of manchester
+centre for process systems engineering and sustainability, pázmány péter catholic university, szentkirályi utca 28, budapest, 1088, hungary	pázmány péter catholic university
+centre for process systems engineering, department of chemical engineering, imperial college london, london, sw 2az, united kingdom	imperial college london
+centre of excellence for green technology, faculty of engineering, university of nottingham malaysia campus, jalan broga, 43500 semenyih, selangor, malaysia	university of nottingham malaysia
+centre of hydrogen energy, institute of future energy, universiti teknologi malaysia (utm), malaysia	University of Technology Malaysia
+centre of process integration and intensification - cpi2, faculty of it, university of pannonia, egyetem u.10, veszprém, hungary	university of pannonia
+chemical engineering department, center for engineering and sustainable development research, de la salle university, 2401 taft avenue, manila, 1004, philippines	de la salle university
+chemical engineering department, de la salle university, 2401 taft avenue, malate, manila 0922, philippines	de la salle university
+chemical engineering department, de la salle university, 2401 taft avenue, malate, manila, 1004, philippines	de la salle university
+chemical engineering department, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+chemical engineering department, de la salle university, manila, 0922, philippines	de la salle university
+chemical engineering department, de la salle university, manila, philippines	de la salle university
+chemical engineering department, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, kuching, sarawak 93350, malaysia	swinburne university of technology
+chemical engineering department, gokongwei college of engineering, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+chemical engineering department, gokongwei college of engineering, de la salle university, manila, philippines	de la salle university
+chemical engineering department, universiti teknologi petronas, bandar seri iskandar, tronoh, perak, 31750, malaysia	Petronas University of Technology 
+chemical engineering department, universiti teknologi petronas, seri iskandar, perak 32610, malaysia	Petronas University of Technology 
+chemical engineering department, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+chemical engineering department, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+chemical engineering department/research center for the natural and applied sciences, university of santo tomas, espa?a blvd, manila, 1006, philippines	university of santo tomas
+chemical engineering department/research center for the natural and applied sciences, university of santo tomas, espa?a blvd, manila, 1006, philippines	university of santo tomas
+chemical engineering graduate program, university of atlántico, puerto colombia, 080007, colombia	university of atlántico
+cmic-politecnico di milano, piazza leonardo da vinci 32, i-20133 milano, italy	Polytechnic University of Milan
+college of chemical engineering, beijing university of chemical technology, beijing, china	beijing university of chemical technology
+college of information science & technology, beijing university of chemical technology, beijing, 100029, china	beijing university of chemical technology
+college of information science & technology, beijing university of chemical technology, beijing, china	beijing university of chemical technology
+college of information science and technology, beijing university of chemical technology, beijing, 100029, china	beijing university of chemical technology
+curtin university malaysia, department of chemical engineering, cdt 250, 98009, miri, sarawak, malaysia	curtin university malaysia
+de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+de la salle university, philippines	de la salle university
+departament d'enginyeria civil i ambiental, universitat polit?cnica de catalunya, campus nord, edifici c2, c/ jordi girona 1 i 3, barcelona, e-08034, spain	Polytechnic University of Catalonia
+department chemical and environmental engineering/centre of excellence for green technologies, university of nottingham malaysia, jalan broga road, semenyih, selangor, 43500, malaysia	university of nottingham malaysia
+department computer science and systems technology, university of pannonia, hungary	university of pannonia
+department of applied informatics, john von neumann faculty of informatics, óbuda university, bécsi út 96/b, budapest, 1034, hungary	óbuda university
+department of automation, technical university of budapest, budapest, hungary	budapest university of technology and economics
+department of bioprocess engineering, faculty of chemical and energy engineering universiti teknologi malaysia (utm), utm, johor bahru, johor 81310, malaysia	University of Technology Malaysia
+department of bioprocess engineering, faculty of chemical and energy engineering, universiti teknologi malaysia (utm), johor bahru, johor, 81310, malaysia	University of Technology Malaysia
+department of chemical and biological engineering, university of wisconsin, madison, wi 53706, united states	university of wisconsin
+department of chemical and biological engineering, university of wisconsin-madison, 1415 engineering dr, madison, wi 53706, united states	university of wisconsin
+department of chemical and biomolecular engineering, bioinformatics research center, korea advanced institute of science and technology, 373–1 guseong-dong, yuseong-gu, daejeon, 305-701, south korea	KAIST Daejeon
+department of chemical and biomolecular engineering, kaist, daejeon 305-701, south korea	KAIST Daejeon
+department of chemical and biomolecular engineering, kaist, daejeon, south korea	KAIST Daejeon
+department of chemical and biomolecular engineering, kaist, daojeon, 305-701, south korea	KAIST Daejeon
+department of chemical and environmental engineering, centre of excellence for green technologies, university of nottingham malaysia campus, broga road, semenyih, selangor, 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, faculty of engineering, universiti putra malaysia, selangor, serdang, 43400, malaysia	University of Putra Malaysia
+department of chemical and environmental engineering, faculty of engineering, universiti putra malaysia, serdang, selangor, 43400, malaysia	University of Putra Malaysia
+department of chemical and environmental engineering, grupo de procesos químicos y bioquímicos, universidad nacional de colombia, bogotá, colombia	National University of Colombia
+department of chemical and environmental engineering, the university of nottingham malaysia campus, selangor, semenyih, 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, the university of nottingham malaysia campus, semenyih, selangor, 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, the university of nottingham, malaysia campus, broga road, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, the university of nottingham, malaysia campus, jalan broga, 43500 semenyih, selangor, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, united kingdom	university of nottingham malaysia
+department of chemical and environmental engineering, universidad nacional de colombia, bogotá, colombia	National University of Colombia
+department of chemical and environmental engineering, universiti putra malaysia, serdang, selangor, 43400, malaysia	University of Putra Malaysia
+department of chemical and environmental engineering, university of nottingham malaysia campus, jalan broga, dahrul ehsan, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham malaysia campus, jalan broga, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham malaysia campus, jalan broga, semenyih, selangor dahrul ehsan 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham malaysia campus, malaysia, broga road, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham malaysia campus, malaysia, broga road, semenyih, selangor, 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham malaysia campus, semenyih, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham malaysia, jalan broga, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham ningbo china, ningbo, 315100, china	university of nottingham ningbo china
+department of chemical and environmental engineering, university of nottingham, jalan broga, semenyih, 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering, university of nottingham, malaysia campus, jalan broga, 43500 semenyih, selangor, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering/centre for green technologies, university of nottingham malaysia, broga road, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering/centre of excellence for green technologies, university of nottingham malaysia, broga road, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental engineering/centre of excellence for green technologies, university of nottingham malaysia, broga road, semenyih, selangor, 43500, malaysia	university of nottingham malaysia
+department of chemical and environmental process engineering, budapest university of technology and economics, budapest, 1111, hungary	budapest university of technology and economics
+department of chemical and environmental process engineering, budapest university of technology and economics, budapest, hungary	budapest university of technology and economics
+department of chemical and environmental process engineering, budapest university of technology and economics, hungary	budapest university of technology and economics
+department of chemical engineering and biotechnology, national taipei university of technology, 1, sec. 3, zhongxiao e. rd., taipei, 10608, taiwan	national taipei university of technology
+department of chemical engineering and biotechnology, national taipei university of technology, 1, sec. 3, zhongxiao e. road, taipei, 10608, taiwan	national taipei university of technology
+department of chemical engineering and biotechnology, national taipei university of technology, taipei, taiwan	national taipei university of technology
+department of chemical engineering and biotechnology, national taipei university of technology, taiwan	national taipei university of technology
+department of chemical engineering and materials science, yuan ze university, chungli, taoyuan, 32003, taiwan	yuan ze university
+department of chemical engineering, biotechnology, and materials, faculty of physical and mathematical sciences, universidad de chile, av. beauchef 851, piso 6-poniente, group of sustainability and process systems engineering, santiago, 8370456, chile	University of Chile
+department of chemical engineering, carnegie mellon university, pittsburgh, united states	carnegie mellon university
+department of chemical engineering, curtin university malaysia, cdt 250, miri, 98009, malaysia	curtin university malaysia
+department of chemical engineering, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+department of chemical engineering, de la salle university, manila, philippines	de la salle university
+department of chemical engineering, henry m. rowan college of engineering, rowan university, glassboro, nj 08028, united states	rowan university
+department of chemical engineering, henry m. rowan college of engineering, rowan university, glassboro, nj, united states	rowan university
+department of chemical engineering, henry m. rowan college of engineering, rowan university, glassboronj, united states	rowan university
+department of chemical engineering, kaist, 373-1 kusong-dong, yusong-ku, taejon 305-701, south korea	KAIST Daejeon
+department of chemical engineering, kansas state university manhattan, ks 66506, united states	kansas state university
+department of chemical engineering, kansas state university, 1005 durland hall, manhattan, ks 66506, united states	kansas state university
+department of chemical engineering, kansas state university, 105 durland hall, manhattan, ks 66506-5102, united states	kansas state university
+department of chemical engineering, kansas state university, manhattan, ks 66506, united states	kansas state university
+department of chemical engineering, kansas state university, manhattan, ks 66506-5102, united states	kansas state university
+department of chemical engineering, kansas state university, manhattan, ks, 66506, united states	kansas state university
+department of chemical engineering, kansas state university, manhattan, ks, united states	kansas state university
+department of chemical engineering, kansas state university, united states	kansas state university
+department of chemical engineering, korea adv. inst. sci. and technol., 373-1 kusong-dong, yusong-gu, tajeon, south korea	KAIST Daejeon
+department of chemical engineering, universiti tunku abdul rahman, jalan sungai long, bandar sungai long, cheras, kajang, 43000, malaysia	Tunku Abdul Rahman University
+department of chemical engineering, university of salamanca, plza. caídos 1–5, salamanca, 37008, spain	university of salamanca
+department of computer science and system technology, university of pannonia, hungary	university of pannonia
+department of computer science and systems technology, faculty of information technology, university of pannonia, hungary	university of pannonia
+department of computer science and systems technology, faculty of it, university of pannonia, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, 10 egyetem utca, veszprém, 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, 10, egyetem street, veszprem, 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem str. 10, veszprem, h-8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u. 10, 8200 veszprem, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u. 10, 8200 veszprém, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u. 10, veszprem, 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u. 10, veszprém, 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u. 10, veszprem, h-8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u.10, h-8200 veszprém, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem u.10, veszprém, h-8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, egyetem utca 10., veszprém, 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, pannonia, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, veszprém, 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, veszprém, egyetem u. 10 8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, veszprém, h-8200, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, veszprem, hungary	university of pannonia
+department of computer science and systems technology, university of pannonia, veszprém, hungary	university of pannonia
+department of computer science and technology systems, university of pannonia, veszprém, hungary	university of pannonia
+department of computer science, systems technology university of pannonia, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+department of computer science, univ. veszprem, veszprem, u. 10, h., egyetem, hungary	university of pannonia
+department of computer science, university of pannonia, egyetem u. 10, h-8200 veszprem, hungary	university of pannonia
+department of computer science, university of pannonia, egyetem u. 10, veszprem h-8200, hungary	university of pannonia
+department of computer science, university of pannonia, egyetem u. 10, veszprem, h-8200, hungary	university of pannonia
+department of computer science, university of pannonia, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+department of computer science, university of pannonia, veszprém, egyetem u. 10 h-8200, hungary	university of pannonia
+department of computer science, university of pannonia, veszprém, egyetem u. 10, h-8200, hungary	university of pannonia
+department of computer science, university of szeged, szeged, hungary	university of szeged
+department of computer science, university of veszprem, egyetem u. 10, veszprem h-8200, hungary	university of pannonia
+department of computer science, university of veszprém, egyetem u. 10, veszprém h-8200, hungary	university of pannonia
+department of computer science, university of veszprem, egyetem u. 10, veszprem, h-8200, hungary	university of pannonia
+department of computer science, university of veszprém, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+department of computer science, university of veszprém, egyetem u. 10., veszprém, h-8200, hungary	university of pannonia
+department of computer science, university of veszprém, veszprem, egyetem u. 10 h-8200, hungary	university of pannonia
+department of computer science, university of veszprem, veszprem, egyetem u. 10, h-8200, hungary	university of pannonia
+department of computer sciences, university of veszprem, hungary	university of pannonia
+department of engineering science, college of engineering and agro-industrial technology, university of the philippines \ los ba?os, college, los ba?os, laguna, 4031, philippines	university of the philippines
+department of engineering science, college of engineering and agro-industrial technology, university of the philippines \ los ba?os, college, los ba?os, laguna, 4031, philippines	university of the philippines
+department of english and applied linguistics, brother andrew gonzalez college of education, de la salle university, manila, philippines	de la salle university
+department of english and applied linguistics, brother andrew gonzalez fsc college of education, de la salle university, manila, philippines	de la salle university
+department of environmental science and engineering, center for environmental studies, kyung hee university, yongin-si, 446-701, south korea	kyung hee university
+department of environmental science and engineering, center for environmental studies, kyung hee university, yongin-si446-701, south korea	kyung hee university
+department of environmental science and engineering, fudan university, shanghai, 200433, china	fudan university
+department of grain science and industry, kansas state university, manhattan, ks 66506, united states	kansas state university
+department of grain science/industry, kansas state university, manhattan, ks 66506, united states	kansas state university
+department of industrial engineering and enterprise information, tunghai university, taichung, taiwan	tunghai university
+department of information technology university of veszprém, hungary	university of pannonia
+department of mathematics and statistics, de la salle university, manila, philippines	de la salle university
+department of mathematics, university of veszprém, veszprém, hungary	university of pannonia
+department of medical research, china medical university, taiwan	china medical university
+department of process engineering, mta-pe “lendület” complex systems monitoring research group, university of pannonia, egyetem u. 10, veszprém, 8200, hungary	university of pannonia
+department of software engineering, university of szeged, dugonics square 13, szeged, 6720, hungary	university of szeged
+department of system and software technology, faculty of engineering and information technology, university of pécs, boszorkány u. 2, pécs, 7624, hungary	university of pécs
+department of systems engineering research institute of technical chemistry, hungarian academy of sciences, p.f. 125, veszprém, 8201, hungary	hungarian academy of sciences
+department of systems engineering, autonomous university of bucaramanga, av. 42 no 48-11, bucaramanga, colombia	autonomous university of bucaramanga
+department of systems engineering, george washington university, 1776 g street nw, washington, dc, united states	george washington university
+department of systems engineering, george washington university, united states	george washington university
+department of systems engineering, research institute of chemical engineering, hungarian academy of sciences, veszprém, pf. 125, 8201, hungary	hungarian academy of sciences
+department of systems engineering, research institute of chemical engineering, hungarian academy of sciences, veszprém, pf. 125, h-8201, hungary	hungarian academy of sciences
+department of systems engineering, research institute, chemical engineering hungarian academy of sciences, pf. 125, 8201 veszprem, hungary	hungarian academy of sciences
+department of systems engineering, universitaria de investigación y desarrollo, bucaramanga, colombia	UDI Desarrollo
+department of systems engineering, universitaria de investigación y desarrollo, calle 9 no. 23-55, bucaramanga, colombia	UDI Desarrollo
+department of thermal systems, korea institute of machinery and materials, daejeon 305-343, south korea	KAIST Daejeon
+dept. of chem. and biomol. eng., bioinformatics research center, korea adv. inst. sci. and technol., 373-1 guseong-dong, yuseong-gu, daejeon 305-701, south korea	KAIST Daejeon
+dept. of computer science and systems technology, university of pannonia, egyetem utca 10, veszprem, h-8200, hungary	university of pannonia
+dept. of environmental science and engineering, college of engineering, center for environmental studies, kyung hee university, seocheon-dong 1, giheung-gu, yongin-si, gyeonggi-do 446-701, south korea	kyung hee university
+dept. of grain science and industry, kansas state university, manhattan, ks 66506, united states	kansas state university
+doosan heavy industries and construction, daejeon 305-348, south korea	KAIST Daejeon
+energy research centre, school of engineering, university of waikato, private bag 3105, hamilton, new zealand	university of waikato
+energy research centre, school of engineering, university of waikato, private bag, hamilton, 3105, new zealand	university of waikato
+engineering research center of intelligent pse, ministry of education of china, beijing, 100029, china	ministry of education of china
+engineering research center of intelligent pse, ministry of education of china, beijing, china	ministry of education of china
+engineering research center of intelligent pse, ministry of education, beijing, 100029, china	ministry of education of china
+engineering research centre of intelligent pse, ministry of education in china, beijing, china	ministry of education of china
+environmental technology institute, singapore	national university of singapore
+faculty information technology, university of pannonia, egyetem u. 10, h-8200 veszprém, hungary	university of pannonia
+faculty of built environment and surveying, universiti teknologi malaysia utm, skudai, johor 81310, malaysia	University of Technology Malaysia
+faculty of chemical engineering, institute of hydrogen economy, universiti teknologi malaysia, utm, johor bahru, johor, 81310, malaysia	University of Technology Malaysia
+faculty of chemistry and chemical engineering, university of maribor, smetanova ul. 17, si-2000, maribor, slovenia	university of maribor
+faculty of chemistry and chemical engineering, university of maribor, smetanova ulica 17, maribor, 2000, slovenia	university of maribor
+faculty of information technology, pázmány péter catholic university, budapest, hungary	pázmány péter catholic university
+faculty of information technology, pázmány péter catholic university, práter u. 50/a, budapest, 1083, hungary	pázmány péter catholic university
+faculty of information technology, research institute of chemical and process engineering - mukki, university of pannonia, egyetem u. 10, h-8200, veszprém, hungary	university of pannonia
+faculty of information technology, university of pannonia, egyetem ut 10, h -8200 veszprém, hungary	university of pannonia
+faculty of information technology, university of pannonia, veszprém, 8200, hungary	university of pannonia
+filipino department, college of liberal arts, de la salle university, manila, philippines	de la salle university
+flenexa plus s.r.o., pøáslavice 335, 783 54, pøáslavice, olomouc, czech republic	flenexa plus s.r.o.
+graz university of technology, institute for process and particle engineering, inffeldgasse 13/3, graz, 8010, austria	graz university of technology
+grupo de procesos químicos y bioquímicos, department of chemical and environmental engineering, universidad nacional de colombia, bogotá, 111321, colombia	National University of Colombia
+huachang growmax (m) sdn. bhd., jenjarom, selangor 42600, malaysia	huachang growmax (m) sdn. bhd.
+ifp energies nouvelles, solaize, france	ifp energies nouvelles
+industrial engineering department, de la salle uniersity, manila, philippines	de la salle university
+industrial engineering department, gokongwei college of engineering, de la salle university, manila, philippines	de la salle university
+inst. info. technol. and elec. eng., university of veszprem, hungary	university of pannonia
+inst. rsrc. efficient sustainable s., graz university of technology, austria	graz university of technology
+institute for process and particle engineering, graz university of technology, inffeldgasse 21 a, 8010 graz, austria	graz university of technology
+institute for process and particle engineering, graz university of technology, inffeldgasse 21 b, a-8010 graz, austria	graz university of technology
+institute for process and particle engineering, graz university of technology, inffeldgasse 21a, a-8010 graz, austria	graz university of technology
+institute for process and particle engineering, graz university of technology, inffeldgasse13/3, a-8010 graz, austria	graz university of technology
+institute for process systems engineering & sustainabilityuniversity, budapest, h-1088, hungary	pázmány péter catholic university
+institute for process systems engineering and sustainability, pázmány pé ter catholic university, budapest, hungary	pázmány péter catholic university
+institute for process systems engineering and sustainability, pázmány péter catholic university, 1088 budapest, szentkirályi, u. 28, budapest, hungary	pázmány péter catholic university
+institute for process systems engineering and sustainability, pázmány péter catholic university, szentkirályi u. 28, budapest, h-1088, hungary	pázmány péter catholic university
+institute for process systems engineering and sustainability, pázmány péter catholic university, szentkirályi utca 28, budapest, 1088, hungary	pázmány péter catholic university
+institute for process systems engineering and sustainability, pázmány péter catholic university, szentkirályi utca 28., budapest, 1088, hungary	pázmány péter catholic university
+institute for process systems engineering sustainability, pázmány péter catholic university, budapest, hungary	pázmány péter catholic university
+institute for resource efficient and sustainable systems, graz university of technolog, austria	graz university of technology
+institute of chemical and engineering sciences (ices), 1 pesek road, jurong island 627833, singapore	ICES A*STAR Singapore
+institute of chemical and engineering sciences, a star (agency for science, technology and research), 1 pesek road, jurong island, singapore 627833, singapore	ICES A*STAR Singapore
+institute of innovation and circular economy, asia university, taichung, taiwan	asia university taiwan
+institute of mathematics, university of veszprém, veszprém, hungary	university of pannonia
+institute of process and particle engineering, graz university of technology, inffeldgasse 13/3, graz/gradec, 8010, austria	graz university of technology
+institute of process engineering & netme centre, brno university of technology, technicka 2896/2, brno, 61669, czech republic	brno university of technology
+institute of process systems engineering and sustainability, pazmany peter catholic university, szentkiralyi u. 28, budapest, 1088, hungary	pázmány péter catholic university
+institute of technical thermodynamics, rwth aachen university, aachen, 52056, germany	rwth aachen university
+institute of technical thermodynamics, rwth aachen university, schinkelstr. 8, 52062 aachen, germany	rwth aachen university
+integrated engineering, department of environmental science and engineering, college of engineering, kyung hee university, south korea	kyung hee university
+integrated engineering, dept. of environmental science and engineering, college of engineering, kyung hee university, 1732 deogyeong-daero, giheung-gu, yongin-si, gyeonggi-do 17104, south korea	kyung hee university
+integrated engineering, dept. of environmental science and engineering, college of engineering, kyung hee university, 1732 deogyeong-daero, giheung-gu, yongin-si, gyeonggi-do, 17104, south korea	kyung hee university
+john von neumann faculty for informatics, óóbuda university, budapest, hungary	óbuda university
+kansas state university, department of chemical engineering, ks 66506 manhattan, united states	kansas state university
+laboratory for artificial intelligence in process engineering department of chemical engineering, kansas state university manhattan, kansas, 66506, united states	kansas state university
+laboratory for intelligence applications in chemical engineering, department of chemical and environmental engineering, national university of singapore, 10 kent ridge crescent, singapore 119260, singapore	national university of singapore
+laboratory for intelligent applications in chemical engineering, department of chemical and biomolecular engineering, national university of singapore, 10 kent ridge crescent, singapore 119260, singapore	national university of singapore
+laudato si institute for process systems engineering and sustainability, pázmány péter catholic university, budapest, hungary	pázmány péter catholic university
+m. auezov south kazakhstan university, 5 tauke khan avenue, shymkent, 160012, kazakhstan	Auezov South Kazakhstan University
+malaysia - japan international institute of technology (mjiit), universiti teknologi malaysia, jalan sultan yahya petra, kuala lumpur, 54100, malaysia	University of Technology Malaysia
+mathematics and statistics department, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+mathematics and statistics department, de la salle university, manila, philippines	de la salle university
+mechanical engineering department, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+mechanical engineering department, de la salle university, manila, philippines	de la salle university
+melent’ev institute of energy systems, siberian branch, russian academy of sciences, irkutsk, 664033, russian federation	russian academy of sciences
+metab. biomol. eng. natl. res. lab., korea adv. inst. sci. and technol., 373-1 guseong-dong, yuseong-gu, daejeon 305-701, south korea	KAIST Daejeon
+mta-pe lendület complex systems monitoring research group, department of process engineering, university of pannonia, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+national engineering laboratory for pipeline safety/beijing key laboratory of urban oil and gas distribution technology, china university of petroleum-beijing, fuxue road no.18, beijing, changping district 102249, china	china university of petroleum
+national research council of the philippines division vii, taguig city, philippines	national research council of the philippines
+national research council of the philippines, valenzuela hall general santos ave, lower bicutan, taguig, metro manila 1631, philippines	national research council of the philippines
+nitrokemia 2000 rt., balatonfuzfo h-8184, hungary	nitrokemia 2000 rt.
+óbuda university, budai út 45, székesfehérvár, 8000, hungary	óbuda university
+óbuda university, john von neumann faculty for informatics, budapest, hungary	óbuda university
+óbuda university, john von neumann faculty of informatics, software engineering department, budapest, hungary	óbuda university
+office of research and development, environmental protection agency, u.s. epa, 26 west martin luther king drive, cincinnati, oh 45268, united states	U.S. Environmental Protection Agency
+office of research and development, u.s. environmental protection agency, 26 west martin luther king drive, cincinnati, oh 45268, united states	U.S. Environmental Protection Agency
+office of research and development, u.s. environmental protection agency, united states	U.S. Environmental Protection Agency
+optin ltd., oroszlán u. 4., szeged, 6720, hungary	optin ltd.
+pazmany peter catholic university, center for process systems engineering and sustainability budapest, hungary	pázmány péter catholic university
+pazmany peter catholic university, institute for process systems engineering and sustainability, budapest, hungary	pázmány péter catholic university
+pázmány péter catholic university, szentkirályi 28, budapest, 1088, hungary	pázmány péter catholic university
+pázmány péter catholic university, szentkirályi u. 28, budapest, 1088, hungary	pázmány péter catholic university
+pázmány péter catholic university, szentkirályi utca 28, budapest, 1088, hungary	pázmány péter catholic university
+process and systems engineering centre (prosys), department of chemical and biochemical engineering, technical university of denmark, s?ltofts plads 229, kgs. lyngby, 2800, denmark	technical university of denmark
+process and systems engineering centre (prosys), department of chemical and biochemical engineering, technical university of denmark, s?ltofts plads 229, kgs. lyngby, 2800, denmark	technical university of denmark
+process systems engineering centre (prospect), research institute for sustainable environment, school of chemical and energy engineering, faculty of engineering, universiti teknologi malaysia, utm, johor bahru, johor, 81310, malaysia	University of Technology Malaysia
+process systems engineering centre (prospect), research institute of sustainable environment (rise), universiti teknologi malaysia (utm), malaysia	University of Technology Malaysia
+programa de ingeniería de sistemas, universidad de cartagena, avenida del consulado no. 48-152, cartagena, 130015, colombia	Polytechnic University of Cartagena
+radboud university, institute for molecules and materials, p.o. box 9010, gl nijmegen, 6500, netherlands	radboud university
+research center for the natural and applied sciences / chemical engineering department, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences / chemical engineering department, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences, chemical engineering department, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences, chemical engineering department, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences, university of santo tomas, espa?a blvd, manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences, university of santo tomas, espa?a blvd., manila, 1006, philippines	university of santo tomas
+research center for the natural and applied sciences, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences, university of santo tomas, espa?a blvd, manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences, university of santo tomas, espa?a blvd., manila, 1006, philippines	university of santo tomas
+research center for the natural and applied sciences, university of santo tomas, espa?a blvd., manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences/chemical engineering department, university of santo tomas, espa?a blvd, manila, 1015, philippines	university of santo tomas
+research center for the natural and applied sciences/chemical engineering department, university of santo tomas, espa?a blvd, manila, 1015, philippines	university of santo tomas
+research centre for sustainable technologies, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, kuching, 93350, malaysia	swinburne university of technology
+research centre for sustainable technologies, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, kuching, sarawak 93350, malaysia	swinburne university of technology
+research centre for sustainable technologies, swinburne university of technology, jalan simpang tiga, kuching, sarawak, 93350, malaysia	swinburne university of technology
+research institute for technical chemistry of the hungarian academy of sciences, h-8201 veszprém, pf.: 125., hungary	hungarian academy of sciences
+research institute of applied earth sciences, university of miskolc, miskolc, hungary	university of miskolc
+research institute of chemical technology and process engineering, faculty of information technology, university of pannonia, egyetem ut. 10, veszprém, h - 8200, hungary	university of pannonia
+school of chemical and energy engineering, faculty of engineering, universiti teknologi malaysia (utm), malaysia	University of Technology Malaysia
+school of chemical engineering and technology, state key laboratory of chemical engineering, tianjin university, tianjin, 300072, china	tianjin university
+school of economics, de la salle university, 2401 taft avenue, malate, manila, 1004, philippines	de la salle university
+school of economics, de la salle university, 2401 taft avenue, manila, 0922, philippines	de la salle university
+school of economics, de la salle university, manila, philippines	de la salle university
+school of engineering and physical sciences, heriot-watt university malaysia, jalan venna p5/2, precinct 5, 62200 putrajaya, malaysia	heriot-watt university malaysia
+school of engineering and physical sciences, heriot-watt university malaysia, putrajaya, wilayah persekutuan putrajaya 62200, malaysia	heriot-watt university malaysia
+school of engineering and physical sciences, heriot-watt university malaysia, putrajaya, wilayah persekutuan putrajaya, 62200, malaysia	heriot-watt university malaysia
+school of engineering, chemical engineering discipline, monash university malaysia, jalan lagoon selatan, bandar sunway, selangor darul ehsan, 47500, malaysia	monash university malaysia
+sinopec engineering (group) co., ltd., beijing, 100101, china	sinopec engineering (group) co.
+sinopec shanghai research institute of petrochemical technology, shanghai, 201208, china	sinopec engineering (group) co.
+society for the promotion of applied computer sciences, volmerstr. 3, 12489 berlin, germany	GFaI e.V.
+sorbonne universités, université de technologie de compi?gne heudiasyc umr 7253, cs 60 319, 60 203 compi?gne cedex., france	Sorbonne University
+sorbonne universités, université de technologie de compi?gne, cnrs umr 7253 heudiasyc, compi?gne60203, france	Sorbonne University
+state key laboratory of chemical resources engineering, beijing university of chemical technology, beijing, 100029, china	beijing university of chemical technology
+state key laboratory of fine chemicals, research and development center of membrane science and technology, dalian university of technology, dalian, liaoning 116024, china	dalian university of technology
+sustainable process integration laboratory – spil, netme centre, faculty of mechanical engineering, brno university of technology – vut brno, technická 2896/2, brno, 616 00, czech republic	brno university of technology
+sustainable process integration laboratory - spil, netme centre, faculty of mechanical engineering, brno university of technology - vut brno, technická 2896/2, brno, 616 69, czech republic	brno university of technology
+sustainable process integration laboratory – spil, netme centre, faculty of mechanical engineering, brno university of technology - vut brno, technická 2896/2, brno, 616 69, czech republic	brno university of technology
+sustainable process integration laboratory – spil, netme centre, faculty of mechanical engineering, brno university of technology – vut brno, technická 2896/2, brno, 616 69, czech republic	brno university of technology
+sustainable process integration laboratory - spil, netme centre, faculty of mechanical engineering, brno university of technology - vut brno, technická2896/2, brno, 616 00, czech republic	brno university of technology
+sustainable process integration laboratory - spil, netme centre, faculty of mechanical engineering, brno university of technology - vut, brno, czech republic	brno university of technology
+sustainable process integration laboratory – spil, netme centre, faculty of mechanical engineering, brno university of technology, brno, czech republic	brno university of technology
+sustainable process integration laboratory - spil, netme centre, faculty of mechanical engineering, brno university of technology, vut brno, technická 2896/2, brno, 616 69, czech republic	brno university of technology
+swinburne university of technology, jalan simpang tiga, sarawak, kuching, 93350, malaysia	swinburne university of technology
+syst. and contr. research laboratory, computer and automation institute, hungarian academy of sciences, 1518 budapest, pf. 63, hungary	hungarian academy of sciences
+systems and control research laboratory, computer and automation institute hungarian academy of sciences, 1518 budapest, pf. 63, hungary, hungary	hungarian academy of sciences
+széchenyi istván university, 9026 gyõr, egyetem tér 1, hungary	széchenyi istván university
+széchenyi istvan university, debrecen, hungary	széchenyi istván university
+széchenyi istván university, egyetem tér 1, györ, 9026, hungary	széchenyi istván university
+széchenyi istván university, egyetem tér 1, gyõr, 9026, hungary	széchenyi istván university
+széchenyi istván university, egyetem tér 1, gyõr, h-9026, hungary	széchenyi istván university
+széchenyi istván university, egyetem tér 1., gyõr, h-9026, hungary	széchenyi istván university
+széchenyi istván university, gyõr, egyetem tér 1 9026, hungary	széchenyi istván university
+széchenyi istván university, gyõr, egyetem tér 1h-9026, hungary	széchenyi istván university
+széchenyi istván university, gyõr, hungary	széchenyi istván university
+széchenyiistván university, h-9026 gyõr, egyetemtér 1, hungary	széchenyi istván university
+technische hochschule ingolstadt, institute of new energy systems, ingolstadt, germany	technische hochschule ingolstadt
+the biopolus institute, futó u. 37, budapest, 1082, hungary	biopolus institute zrt.
+the university of nottingham malaysia, jalan broga, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+tomsk polytechnic university, 30 lenin avenue, tomsk, 634050, russian federation	tomsk polytechnic university
+tungsram operations ltd, vaci ut 77, budapest, 1044, hungary	tungsram operations ltd
+ukm-graduate school of business, universiti kebangsaan malaysia, ukm, bangi, 43600, malaysia	National University of Malaysia
+universidad de cartagena, cartagena, colombia	Polytechnic University of Cartagena
+universidad nacional de colombia, bogotá, colombia	National University of Colombia
+universidad nacional de colombia, cra 45, bogotá, colombia	National University of Colombia
+universiti tunku abdul rahman, department of chemical engineering, jalan sungai long, bandar sungai long, cheras, kajang, selangor 43000, malaysia	Tunku Abdul Rahman University
+universiti tunku abdul rahman, department of chemical engineering, jalan sungai long, bandar sungai long, cheras, selangor, kajang, 43000, malaysia	Tunku Abdul Rahman University
+university of dunaújváros, táncsics m. utca 1/a, dunaujvaros, 2400, hungary	university of dunaújváros
+university of firenze, dipartimento di matematica e informatica, firenze, italy	university of firenze
+university of miskolc, research institute of applied earth science, miskolc, hungary	university of miskolc
+university of natural resources and life sciences, vienna, institute of sanitary engineering and water pollution control, muthgasse 18, vienna, 1190, austria	BOKU vienna
+university of natural resources and life sciences, vienna, institute of spatial planning and rural development, peter jordan-strasse 82, vienna, 1190, austria	BOKU vienna
+university of nottingham malaysia, broga road, semenyih, selangor 43500, malaysia	university of nottingham malaysia
+university of pannonia, department of computer science and systems technology, egyetem u. 10, h-8200 veszprém, hungary	university of pannonia
+university of pannonia, department of computer science and systems technology, egyetem u. 10, veszprem, h-8200, hungary	university of pannonia
+university of pannonia, department of computer science and systems technology, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+university of pannonia, egyetem 10, veszprém, 8200, hungary	university of pannonia
+university of pannonia, egyetem str. 10, veszprém, hungary	university of pannonia
+university of pannonia, egyetem street 10, veszprem, 8200, hungary	university of pannonia
+university of pannonia, egyetem u. 10, veszprém, 8200, hungary	university of pannonia
+university of pannonia, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+university of pannonia, egyetem u. 10., veszprém, h-8200, hungary	university of pannonia
+university of pannonia, faculty of information technology, veszprem, hungary	university of pannonia
+university of pannonia, mta-pe 'lendület' complex systems monitoring research group, egyetem u. 10, veszprém, h-8200, hungary	university of pannonia
+university of pannonia, veszprem, egyetem str. 10., hungary	university of pannonia
+university of pannonia, veszprem, hungary	university of pannonia
+university of pannonia, veszprém, hungary	university of pannonia
+university of szeged, árpád tér 2, h-6720 szeged, hungary	university of szeged
+university of szeged, szeged, hungary	university of szeged
+university of waikato, energy research centre, school of engineering, hamilton, new zealand	university of waikato
+utm-low carbon asia research centre, program of urban and regional planning, faculty of built environment and surveying, universiti teknologi malaysia (utm), malaysia	University of Technology Malaysia
+western research institute, laramie, wy 82072, united states	U.S. western research institute
