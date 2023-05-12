@@ -1,2 +1,10 @@
 # SZE-SLR-MILAB
 Systematic Literature Review (SLR) Design, and P-graph (Process Graph Theory) SLR Database
+
+A proposed semi-automated Systematic Literature Review (SLR) design has been deployed to conduct an exhaustive literature review on contributions concerning applications of the P-graph framework as a case study. The P-graph framework (https://p-graph.org) was initially conceived for solving problems related to the synthesis of chemical processes; in particular, the framework has been useful for developing sustainable and resilient systems.
+
+The current contribution includes the P-graph SLR database itself, and additionally, the Python scripts used to generate such results. The case study has been selected in view of the authors’ familiarity with the P-graph framework, and because they maintain a manually-collected database of works on the subject. The contributions concerning the framework are easily distinguishable from others involving similar methodologies. It was observed that the implementation of the proposed SLR design extended prior review papers on the P-graph framework and provided additional information on authors and institutions devoted to research on this subject.
+
+Generally, it is expected that the dataset will assist researchers, scholars, and practitioners concerned with industrial sustainability in streamlining their literature reviews, thus accelerating the acquisition of pertinent publications that could advance and enrich their own research works on such a subject. Moreover, it is expected that, with proper adaptation, the proposed semi-automated SLR design can be applied to conduct literature reviews in other scientific fields whose results can be validated against existing reviews when available.
+
+The normalized P-graph database hereby presented thus can be used as a source of validated information for researchers. The P-graph database was uploaded in various file formats that support database management software (e.g. Zotero .RIS) as well as MS Office (.XLSX) or Python (.CSV) import.
